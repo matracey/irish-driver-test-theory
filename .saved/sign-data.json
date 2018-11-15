@@ -1,0 +1,282 @@
+[
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto90.gif",
+		"value": "Stop",
+		"alt": "Red Octagon showing stop"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto91.gif",
+		"value": "Yield",
+		"alt": "White triangle with a red border displaying yield"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto95.gif",
+		"value": "Yield",
+		"alt": "White triangle with a red border displaying Géill Slí (Yield in Irish)"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto148.gif",
+		"value": "School wardens stop sign ",
+		"alt": "White circle with red border showing Stop above children"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto129.gif",
+		"value": "No left turn ",
+		"alt": "White circle with red border showing no left turn"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto128.gif",
+		"value": "No Entry ",
+		"alt": "White circle with red border showing no entry"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto126.gif",
+		"value": "No right turn",
+		"alt": "White circle with red border showing no right turn"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto122a.gif",
+		"value": "Parking prohibited",
+		"alt": "White circle with red border showing no parking"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto92.gif",
+		"value": "Clearway",
+		"alt": "White circle with red border showing clearway"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto235.gif",
+		"value": "Max speed limit 30km/h",
+		"alt": "White circle with red border showing 30km/h as the maximum speed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto236.gif",
+		"value": "Max speed limit 50km/h",
+		"alt": "White circle with red border showing 50km/h as the maximum speed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto237.gif",
+		"value": "Max speed limit 60km/h",
+		"alt": "White circle with red border showing 60km/h as the maximum speed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto238.gif",
+		"value": "Max speed limit 80km/h",
+		"alt": "White circle with red border showing 80km/h as the maximum speed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto239.gif",
+		"value": "Max speed limit 100km/h",
+		"alt": "White circle with red border showing 100km/h as the maximum speed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto240.gif",
+		"value": "Max speed limit 120km/h",
+		"alt": "White circle with red border showing 120km/h as the maximum speed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto123.gif",
+		"value": "Taxi Rank",
+		"alt": "White circle with red border showing taxi rank"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/moto34.gif",
+		"value": "No entry for large vehicles(by reference to weight)",
+		"alt": "White circle with red border showing no entry for large vehicles, greater than 3 tonnes"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto133.gif",
+		"value": "No U-turn",
+		"alt": "White circle with red border showing no u-turn"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto182.gif",
+		"value": "No overtaking",
+		"alt": "White circle with red border showing no overtaking"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto200.gif",
+		"value": "Height restriction",
+		"alt": "White circle with red border showing height restriction"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto115.gif",
+		"value": "Pedestrianised street",
+		"alt": "White circle with red border showing pedestrian zone"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto121.gif",
+		"value": "Parking permitted",
+		"alt": "White circle with red border showing parking permitted"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto214.gif",
+		"value": "Disc parking plate",
+		"alt": "Rectangular sign showing disc paking information"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto206.gif",
+		"value": "Zonal restriction - no parking of large vehicles",
+		"alt": "Sign showing no parking of large vehicles"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto207.gif",
+		"value": "End of the restriction zone",
+		"alt": "Sign showing end of large vechicle parking restrictions"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto153.gif",
+		"value": "Turn left ahead",
+		"alt": "White on blue junction sign showing left turn ahead"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto154.gif",
+		"value": "Turn right ahead",
+		"alt": "White on blue junction sign showing right turn ahead"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto155.gif",
+		"value": "Turn left",
+		"alt": "White on blue junction sign showing turn left"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto156.gif",
+		"value": "Turn right",
+		"alt": "White on blue junction sign showing turn right"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/moto26.gif",
+		"value": "Pass either side",
+		"alt": "White on blue junction sign showing pass either side"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/moto157.gif",
+		"value": "Straight ahead",
+		"alt": "White on blue junction sign showing straight ahead"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/moto28.gif",
+		"value": "Keep right",
+		"alt": "White on blue junction sign showing keep right"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto 29.gif",
+		"value": "Keep left",
+		"alt": "White on blue junction sign showing keep left"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto232.gif",
+		"value": "No entry for pedestrians to tramway",
+		"alt": "White circle with red border showing no entry for pedestrians"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto14.gif",
+		"value": "Stop",
+		"alt": "Red circle showing stop"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto15.gif",
+		"value": "Either form of Go",
+		"alt": "Green circle showing go"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto370.gif",
+		"value": "or Téigh can be used ",
+		"alt": "Green circle showing Téigh (go in Irish)"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto371.gif",
+		"value": "No entry to goods vehicles (by reference to number of axles)",
+		"alt": "White circle with red border showing no entry to goods vehicles with 3 axles"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/contra.gif",
+		"value": "With flow bus lane on left",
+		"alt": "Blue sign showing with flow bus lane on the left"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto198.gif",
+		"value": "With flow bus lane on right",
+		"alt": "Blue sign showing with flow bus lane on the right"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto199.gif",
+		"value": "Contra flow bus lane",
+		"alt": "Blue sign showing contra flow bus lane on the right"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/tram.gif",
+		"value": "Tram lane on left",
+		"alt": "Blue sign showing tram lane on the left"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto267.gif",
+		"value": "Tram lane on right",
+		"alt": "Blue sign showing tram lane on the right"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto210.gif",
+		"value": "Start of cycle track",
+		"alt": "Sign showing start of cycle track"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto211.gif",
+		"value": "End of cycle track",
+		"alt": "Sign showing end of cycle track"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto227.gif",
+		"value": "Electronic variable speed limit sign (tunnel only)",
+		"alt": "Electronic variable sign showing maximum speed of 80km/h"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto223a.gif",
+		"value": "In a tunnel goods vehicles cannot use right-hand lane (by reference to number of axles)",
+		"alt": "Sign showing in a tunnel goods vehicles in  a tunnel can not use the right-hand lane"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto242.gif",
+		"value": "Electronic periodic speed limit sign",
+		"alt": "Electronic periodic speed limit sign showing a maximum speed of 30km/h"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto243.gif",
+		"value": "Electronic periodic speed limit sign at school",
+		"alt": "Electronic periodic speed limit sign at a school showing a maximum speed of 30km/h"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto518.gif",
+		"value": "Tram only street",
+		"alt": "Sign showing a tram only street"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto805.gif",
+		"value": "Tram and access only street",
+		"alt": "Sign showing a tram and access only street"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto517.gif",
+		"value": "Bus only street",
+		"alt": "Sign showing a bus only street"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto221.gif",
+		"value": "Go (Lane open)",
+		"alt": "Tunnel traffic lane showing go, lane open"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto224a.gif",
+		"value": "Stop (Lane closed)",
+		"alt": "Tunnel traffic lane showing stop, lane closed"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto223.gif",
+		"value": "Move into the left-hand lane",
+		"alt": "Tunnel traffic lane showing move into left-hand lane"
+	},
+	{
+		"image": "http://www.drivingtesttips.ie/images/drivingtesttipsROTRsigns/RegulatroyTrafficSigns/Moto222.gif",
+		"value": "Move into the right-hand lane",
+		"alt": "Tunnel traffic lane showing move to right-hand lane"
+	}
+]
