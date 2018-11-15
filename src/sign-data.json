@@ -1,0 +1,282 @@
+[
+    {
+        "image": "/images/Moto90.gif",
+        "value": "Stop",
+        "alt": "Red Octagon showing stop"
+    },
+    {
+        "image": "/images/Moto91.gif",
+        "value": "Yield",
+        "alt": "White triangle with a red border displaying yield"
+    },
+    {
+        "image": "/images/Moto95.gif",
+        "value": "Yield",
+        "alt": "White triangle with a red border displaying Géill Slí (Yield in Irish)"
+    },
+    {
+        "image": "/images/Moto148.gif",
+        "value": "School wardens stop sign ",
+        "alt": "White circle with red border showing Stop above children"
+    },
+    {
+        "image": "/images/Moto129.gif",
+        "value": "No left turn ",
+        "alt": "White circle with red border showing no left turn"
+    },
+    {
+        "image": "/images/Moto128.gif",
+        "value": "No Entry ",
+        "alt": "White circle with red border showing no entry"
+    },
+    {
+        "image": "/images/Moto126.gif",
+        "value": "No right turn",
+        "alt": "White circle with red border showing no right turn"
+    },
+    {
+        "image": "/images/Moto122a.gif",
+        "value": "Parking prohibited",
+        "alt": "White circle with red border showing no parking"
+    },
+    {
+        "image": "/images/Moto92.gif",
+        "value": "Clearway",
+        "alt": "White circle with red border showing clearway"
+    },
+    {
+        "image": "/images/Moto235.gif",
+        "value": "Max speed limit 30km/h",
+        "alt": "White circle with red border showing 30km/h as the maximum speed"
+    },
+    {
+        "image": "/images/Moto236.gif",
+        "value": "Max speed limit 50km/h",
+        "alt": "White circle with red border showing 50km/h as the maximum speed"
+    },
+    {
+        "image": "/images/Moto237.gif",
+        "value": "Max speed limit 60km/h",
+        "alt": "White circle with red border showing 60km/h as the maximum speed"
+    },
+    {
+        "image": "/images/Moto238.gif",
+        "value": "Max speed limit 80km/h",
+        "alt": "White circle with red border showing 80km/h as the maximum speed"
+    },
+    {
+        "image": "/images/Moto239.gif",
+        "value": "Max speed limit 100km/h",
+        "alt": "White circle with red border showing 100km/h as the maximum speed"
+    },
+    {
+        "image": "/images/Moto240.gif",
+        "value": "Max speed limit 120km/h",
+        "alt": "White circle with red border showing 120km/h as the maximum speed"
+    },
+    {
+        "image": "/images/Moto123.gif",
+        "value": "Taxi Rank",
+        "alt": "White circle with red border showing taxi rank"
+    },
+    {
+        "image": "/images/moto34.gif",
+        "value": "No entry for large vehicles(by reference to weight)",
+        "alt": "White circle with red border showing no entry for large vehicles, greater than 3 tonnes"
+    },
+    {
+        "image": "/images/Moto133.gif",
+        "value": "No U-turn",
+        "alt": "White circle with red border showing no u-turn"
+    },
+    {
+        "image": "/images/Moto182.gif",
+        "value": "No overtaking",
+        "alt": "White circle with red border showing no overtaking"
+    },
+    {
+        "image": "/images/Moto200.gif",
+        "value": "Height restriction",
+        "alt": "White circle with red border showing height restriction"
+    },
+    {
+        "image": "/images/Moto115.gif",
+        "value": "Pedestrianised street",
+        "alt": "White circle with red border showing pedestrian zone"
+    },
+    {
+        "image": "/images/Moto121.gif",
+        "value": "Parking permitted",
+        "alt": "White circle with red border showing parking permitted"
+    },
+    {
+        "image": "/images/Moto214.gif",
+        "value": "Disc parking plate",
+        "alt": "Rectangular sign showing disc paking information"
+    },
+    {
+        "image": "/images/Moto206.gif",
+        "value": "Zonal restriction - no parking of large vehicles",
+        "alt": "Sign showing no parking of large vehicles"
+    },
+    {
+        "image": "/images/Moto207.gif",
+        "value": "End of the restriction zone",
+        "alt": "Sign showing end of large vechicle parking restrictions"
+    },
+    {
+        "image": "/images/Moto153.gif",
+        "value": "Turn left ahead",
+        "alt": "White on blue junction sign showing left turn ahead"
+    },
+    {
+        "image": "/images/Moto154.gif",
+        "value": "Turn right ahead",
+        "alt": "White on blue junction sign showing right turn ahead"
+    },
+    {
+        "image": "/images/Moto155.gif",
+        "value": "Turn left",
+        "alt": "White on blue junction sign showing turn left"
+    },
+    {
+        "image": "/images/Moto156.gif",
+        "value": "Turn right",
+        "alt": "White on blue junction sign showing turn right"
+    },
+    {
+        "image": "/images/moto26.gif",
+        "value": "Pass either side",
+        "alt": "White on blue junction sign showing pass either side"
+    },
+    {
+        "image": "/images/moto157.gif",
+        "value": "Straight ahead",
+        "alt": "White on blue junction sign showing straight ahead"
+    },
+    {
+        "image": "/images/moto28.gif",
+        "value": "Keep right",
+        "alt": "White on blue junction sign showing keep right"
+    },
+    {
+        "image": "/images/Moto 29.gif",
+        "value": "Keep left",
+        "alt": "White on blue junction sign showing keep left"
+    },
+    {
+        "image": "/images/Moto232.gif",
+        "value": "No entry for pedestrians to tramway",
+        "alt": "White circle with red border showing no entry for pedestrians"
+    },
+    {
+        "image": "/images/Moto14.gif",
+        "value": "Stop",
+        "alt": "Red circle showing stop"
+    },
+    {
+        "image": "/images/Moto15.gif",
+        "value": "Either form of Go",
+        "alt": "Green circle showing go"
+    },
+    {
+        "image": "/images/Moto370.gif",
+        "value": "or Téigh can be used ",
+        "alt": "Green circle showing Téigh (go in Irish)"
+    },
+    {
+        "image": "/images/Moto371.gif",
+        "value": "No entry to goods vehicles (by reference to number of axles)",
+        "alt": "White circle with red border showing no entry to goods vehicles with 3 axles"
+    },
+    {
+        "image": "/images/contra.gif",
+        "value": "With flow bus lane on left",
+        "alt": "Blue sign showing with flow bus lane on the left"
+    },
+    {
+        "image": "/images/Moto198.gif",
+        "value": "With flow bus lane on right",
+        "alt": "Blue sign showing with flow bus lane on the right"
+    },
+    {
+        "image": "/images/Moto199.gif",
+        "value": "Contra flow bus lane",
+        "alt": "Blue sign showing contra flow bus lane on the right"
+    },
+    {
+        "image": "/images/tram.gif",
+        "value": "Tram lane on left",
+        "alt": "Blue sign showing tram lane on the left"
+    },
+    {
+        "image": "/images/Moto267.gif",
+        "value": "Tram lane on right",
+        "alt": "Blue sign showing tram lane on the right"
+    },
+    {
+        "image": "/images/Moto210.gif",
+        "value": "Start of cycle track",
+        "alt": "Sign showing start of cycle track"
+    },
+    {
+        "image": "/images/Moto211.gif",
+        "value": "End of cycle track",
+        "alt": "Sign showing end of cycle track"
+    },
+    {
+        "image": "/images/Moto227.gif",
+        "value": "Electronic variable speed limit sign (tunnel only)",
+        "alt": "Electronic variable sign showing maximum speed of 80km/h"
+    },
+    {
+        "image": "/images/Moto223a.gif",
+        "value": "In a tunnel goods vehicles cannot use right-hand lane (by reference to number of axles)",
+        "alt": "Sign showing in a tunnel goods vehicles in  a tunnel can not use the right-hand lane"
+    },
+    {
+        "image": "/images/Moto242.gif",
+        "value": "Electronic periodic speed limit sign",
+        "alt": "Electronic periodic speed limit sign showing a maximum speed of 30km/h"
+    },
+    {
+        "image": "/images/Moto243.gif",
+        "value": "Electronic periodic speed limit sign at school",
+        "alt": "Electronic periodic speed limit sign at a school showing a maximum speed of 30km/h"
+    },
+    {
+        "image": "/images/Moto518.gif",
+        "value": "Tram only street",
+        "alt": "Sign showing a tram only street"
+    },
+    {
+        "image": "/images/Moto805.gif",
+        "value": "Tram and access only street",
+        "alt": "Sign showing a tram and access only street"
+    },
+    {
+        "image": "/images/Moto517.gif",
+        "value": "Bus only street",
+        "alt": "Sign showing a bus only street"
+    },
+    {
+        "image": "/images/Moto221.gif",
+        "value": "Go (Lane open)",
+        "alt": "Tunnel traffic lane showing go, lane open"
+    },
+    {
+        "image": "/images/Moto224a.gif",
+        "value": "Stop (Lane closed)",
+        "alt": "Tunnel traffic lane showing stop, lane closed"
+    },
+    {
+        "image": "/images/Moto223.gif",
+        "value": "Move into the left-hand lane",
+        "alt": "Tunnel traffic lane showing move into left-hand lane"
+    },
+    {
+        "image": "/images/Moto222.gif",
+        "value": "Move into the right-hand lane",
+        "alt": "Tunnel traffic lane showing move to right-hand lane"
+    }
+]
