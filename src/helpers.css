@@ -119,3 +119,13 @@
 .pv-3 { padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; }
 .pv-4 { padding-bottom: 2.0rem!important; padding-top: 2.0rem!important; }
 .pv-5 { padding-bottom: 2.5rem!important; padding-top: 2.5rem!important; }
+
+.vh-25 { height: 25vh!important; }
+.vh-50 { height: 50vh!important; }
+.vh-75 { height: 75vh!important; }
+.vh-100 { height: 100vh!important; }
+
+.vw-25 { width: 25vw!important; }
+.vw-50 { width: 50vw!important; }
+.vw-75 { width: 75vw!important; }
+.vw-100 { width: 100vw!important; }
