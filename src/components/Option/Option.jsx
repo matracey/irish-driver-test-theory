@@ -1,6 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+import "./Option.css";
+
 import {
     Image,
     ChoiceGroup,
@@ -16,7 +18,7 @@ const Option = (props) => {
         onClickSubmit,
     } = props;
     return (
-        <div className="option-container">
+        <div className="option-container d-flex flex-column align-items-center">
             <Image
                 src={imageSrc}
                 alt={alt}
@@ -46,6 +48,7 @@ Option.propTypes = {
     })).isRequired,
     alt: PropTypes.string.isRequired,
     onChange: PropTypes.func,
+    onClickSubmit: PropTypes.func,
 };
 
 export default Option;
