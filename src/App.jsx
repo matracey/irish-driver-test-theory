@@ -79,13 +79,13 @@ class App extends Component {
 
         if (remainingQuestions == null || remainingQuestions.length <= 0) {
             return (
-                <div className="ms-Grid d-flex align-items-center vh-100" dir="ltr">
-                    <div className="ms-Grid-row ms-textAlignCenter">
+                <div className="ms-Grid d-flex flex-column justify-content-center align-items-center vh-100 ms-textAlignCenter" dir="ltr">
+                    <div className="ms-Grid-row">
                         <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
                             <h1>No questions to display!</h1>
                         </div>
                     </div>
-                    <div className="ms-Grid-row ms-textAlignCenter">
+                    <div className="ms-Grid-row">
                         <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
                             <PrimaryButton
                                 text="Start Again?"
