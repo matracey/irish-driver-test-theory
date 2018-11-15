@@ -27,6 +27,7 @@
   "devDependencies": {
     "@types/react": "^16.7.6",
     "@types/react-dom": "^16.0.9",
+    "eslint": "^5.9.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jest": "^22.0.0",
