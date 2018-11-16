@@ -3,7 +3,10 @@ import React, { Component } from "react";
 import { PrimaryButton } from "office-ui-fabric-react";
 
 import ImageOption from "./components/ImageOption/ImageOption";
-import data from "./sign-data.json";
+import TextOption from "./components/TextOption/TextOption";
+
+import signData from "./sign-data.json";
+import theoryData from "./theory-data.json";
 
 import "./App.css";
 
@@ -28,9 +31,10 @@ class App extends Component {
         this.onChangeSelectedOption = this.onChangeSelectedOption.bind(this);
         this.onClickSubmit = this.onClickSubmit.bind(this);
         this.loadQuestionData = this.loadQuestionData.bind(this);
+        this.reloadQuestions = this.reloadQuestions.bind(this);
 
         this.state = {
-            remainingQuestions: this.loadQuestionData(data),
+            remainingQuestions: this.reloadQuestions(),
             answeredQuestions: [],
             selectedOption: "",
         };
@@ -41,6 +45,7 @@ class App extends Component {
     onClickSubmit = () => {
         const { selectedOption, remainingQuestions, answeredQuestions } = this.state;
         const q = remainingQuestions[0];
+
         if (q.value === selectedOption) {
             const answeredQuestion = remainingQuestions.splice(0, 1);
             answeredQuestions.push(answeredQuestion);
@@ -58,21 +63,31 @@ class App extends Component {
         questionData = questionData.map(({
             id,
             imageSrc,
+            text,
             value,
-            alt
+            alt,
+            possibleValues
         }) => ({
             id,
             imageSrc,
+            text,
             value,
             alt,
-            possibleValues: shuffle([
-                ...shuffle(questionData.filter(qF => qF.value !== value)).map(qM => ({ key: `option-${qM.id}`, text: qM.value, disabled: false })).slice(0, 3),
-                { key: `option-${id}`, text: value, disabled: false }
-            ]),
+            possibleValues: possibleValues != null && possibleValues.length > 0 ?
+                shuffle([
+                    ...possibleValues.filter(qF => qF.value !== value).map(qM => ({ key: `option-${qM.id}`, text: qM.value, disabled: false })),
+                    { key: `option-${id}`, text: value, disabled: false }
+                ]) :
+                shuffle([
+                    ...shuffle(questionData.filter(qF => qF.value !== value)).map(qM => ({ key: `option-${qM.id}`, text: qM.value, disabled: false })).slice(0, 3),
+                    { key: `option-${id}`, text: value, disabled: false }
+                ]),
         }));
 
         return questionData;
     }
+
+    reloadQuestions = () => shuffle([...this.loadQuestionData(signData), ...this.loadQuestionData(theoryData)]);
 
     render() {
         const { remainingQuestions } = this.state;
@@ -89,7 +104,7 @@ class App extends Component {
                         <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
                             <PrimaryButton
                                 text="Start Again?"
-                                onClick={() => this.setState({ remainingQuestions: this.loadQuestionData(data) })}
+                                onClick={() => this.setState({ remainingQuestions: this.reloadQuestions() })}
                             />
                         </div>
                     </div>
@@ -98,18 +113,35 @@ class App extends Component {
         }
 
         const q = remainingQuestions[0];
+        let option = "";
+        if (q.imageSrc != null) {
+            option = (
+                <ImageOption
+                    key={`option-${q.id}`}
+                    imageSrc={q.imageSrc}
+                    possibleValues={q.possibleValues}
+                    alt={q.alt}
+                    onChange={this.onChangeSelectedOption}
+                    onClickSubmit={this.onClickSubmit}
+                />
+            );
+        } else {
+            option = (
+                <TextOption
+                    key={`option-${q.id}`}
+                    text={q.text}
+                    possibleValues={q.possibleValues}
+                    onChange={this.onChangeSelectedOption}
+                    onClickSubmit={this.onClickSubmit}
+                />
+            );
+        }
+
         return (
             <div className="ms-Grid d-flex justify-content-center align-items-center vh-100" dir="ltr">
                 <div className="ms-Grid-row ms-textAlignCenter">
                     <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
-                        <ImageOption
-                            key={`option-${q.id}`}
-                            imageSrc={q.imageSrc}
-                            possibleValues={q.possibleValues}
-                            alt={q.alt}
-                            onChange={this.onChangeSelectedOption}
-                            onClickSubmit={this.onClickSubmit}
-                        />
+                        {option}
                     </div>
                 </div>
             </div>
