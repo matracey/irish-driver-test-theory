@@ -65,10 +65,11 @@ class Questions extends Component {
 
     render() {
         const { remainingQuestions } = this.state;
+        const { className } = this.props;
 
         if (remainingQuestions == null || remainingQuestions.length <= 0) {
             return (
-                <div className="ms-Grid d-flex flex-column justify-content-center align-items-center h-100 mh-3 ms-textAlignCenter" dir="ltr">
+                <div className={`${className ? `${className} ` : ""}ms-Grid d-flex flex-column justify-content-center align-items-center ms-textAlignCenter`} dir="ltr">
                     <div className="ms-Grid-row">
                         <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
                             <h1>You&rsquo;ve answered all of the questions!</h1>
@@ -125,7 +126,8 @@ class Questions extends Component {
 
 Questions.propTypes = {
     signData: PropTypes.array.isRequired,
-    theoryData: PropTypes.array.isRequired
+    theoryData: PropTypes.array.isRequired,
+    className: PropTypes.string,
 };
 
 export default Questions;

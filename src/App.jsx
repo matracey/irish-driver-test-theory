@@ -9,7 +9,7 @@ import theoryData from "./theory-data.json";
 import "./App.css";
 
 const App = () => (
-    <div className="app">
+    <div className="app d-flex flex-column">
         <Header appName={process.env.REACT_APP_APP_NAME} />
         <Questions
             signData={signData}
