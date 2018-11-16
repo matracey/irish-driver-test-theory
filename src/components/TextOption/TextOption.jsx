@@ -1,29 +1,26 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import "./Option.css";
+import "./TextOption.css";
 
 import {
-    Image,
     ChoiceGroup,
     PrimaryButton
 } from "office-ui-fabric-react";
 
-const Option = (props) => {
+const TextOption = (props) => {
     const {
-        imageSrc,
+        text,
         possibleValues,
         alt,
         onChange,
         onClickSubmit,
     } = props;
     return (
-        <div className="option-container d-flex flex-column align-items-center">
-            <Image
-                src={imageSrc}
-                alt={alt}
-                width={150}
-            />
+        <div className="text-option-container d-flex flex-column align-items-center">
+            <div className="ms-font-l">
+                {text}
+            </div>
             <ChoiceGroup
                 options={possibleValues}
                 onChange={onChange}
@@ -40,8 +37,8 @@ const Option = (props) => {
     );
 };
 
-Option.propTypes = {
-    imageSrc: PropTypes.string.isRequired,
+TextOption.propTypes = {
+    text: PropTypes.string.isRequired,
     possibleValues: PropTypes.arrayOf(PropTypes.shape({
         key: PropTypes.string.isRequired,
         text: PropTypes.string.isRequired,
@@ -51,4 +48,4 @@ Option.propTypes = {
     onClickSubmit: PropTypes.func,
 };
 
-export default Option;
+export default TextOption;

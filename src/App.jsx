@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import { PrimaryButton } from "office-ui-fabric-react";
 
-import Option from "./components/Option/Option";
+import ImageOption from "./components/ImageOption/ImageOption";
 import data from "./sign-data.json";
 
 import "./App.css";
@@ -102,7 +102,7 @@ class App extends Component {
             <div className="ms-Grid d-flex justify-content-center align-items-center vh-100" dir="ltr">
                 <div className="ms-Grid-row ms-textAlignCenter">
                     <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
-                        <Option
+                        <ImageOption
                             key={`option-${q.id}`}
                             imageSrc={q.imageSrc}
                             possibleValues={q.possibleValues}
