@@ -93,21 +93,21 @@
     {
         "id": 36,
         "text": "What is the sequence of traffic lights?",
-        "value": "Green, steady Amber, Red, amber, green",
+        "value": "Green, steady Amber, Red, Amber, Green.",
         "possibleValues": [
-            { "id": 37, "value": "Green, Red, Amber, green, steady Amber" },
-            { "id": 38, "value": "Red, Green, steady Amber, green, Amber" },
-            { "id": 39, "value": "Green, steady Amber, Green, Red, Amber" }
+            { "id": 37, "value": "Green, Red, Amber, Green, steady Amber." },
+            { "id": 38, "value": "Red, Green, steady Amber, Green, Amber." },
+            { "id": 39, "value": "Green, steady Amber, Green, Red, Amber." }
         ]
     },
     {
         "id": 40,
-        "text": "When should you use your hazard lights?",
+        "text": "When should you use your hazard warning lights?",
         "value": "When your car is broken down, being towed, or at the scene of an accident.",
         "possibleValues": [
-            { "id": 41, "value": "Any time" },
-            { "id": 42, "value": "When fog or poor visibility persists" },
-            { "id": 43, "value": "When following behind a vehicle" }
+            { "id": 41, "value": "Any time." },
+            { "id": 42, "value": "When fog or poor visibility persists." },
+            { "id": 43, "value": "When following behind a vehicle." }
         ]
     },
     {
@@ -249,7 +249,7 @@
         "possibleValues": [
             { "id": 97, "value": "Increase speed so that you can pass the light before it can change." },
             { "id": 98, "value": "Check your rear and side mirrors." },
-            { "id": 99, "value": "Sound your horn" }
+            { "id": 99, "value": "Sound your horn." }
         ]
     },
     {
