@@ -113,7 +113,7 @@ class Questions extends Component {
 
         return (
             <div className="ms-Grid d-flex justify-content-center align-items-center h-100 mh-3" dir="ltr">
-                <div className="ms-Grid-row ms-textAlignCenter">
+                <div className="ms-Grid-row">
                     <div className="ms-Grid-col ms-sm12 d-flex justify-content-center">
                         {option}
                     </div>

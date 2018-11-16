@@ -17,7 +17,7 @@ const TextOption = (props) => {
     } = props;
     return (
         <div className="text-option-container d-flex flex-column align-items-center">
-            <div className="ms-font-l">
+            <div className="ms-font-l ms-textAlignCenter">
                 {text}
             </div>
             <ChoiceGroup
