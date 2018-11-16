@@ -12,7 +12,6 @@ const TextOption = (props) => {
     const {
         text,
         possibleValues,
-        alt,
         onChange,
         onClickSubmit,
     } = props;
@@ -43,7 +42,6 @@ TextOption.propTypes = {
         key: PropTypes.string.isRequired,
         text: PropTypes.string.isRequired,
     })).isRequired,
-    alt: PropTypes.string.isRequired,
     onChange: PropTypes.func,
     onClickSubmit: PropTypes.func,
 };
