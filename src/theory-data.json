@@ -344,7 +344,7 @@
     },
     {
         "id": 136,
-        "text": "What should you do if blinded by oncoming lights at night.",
+        "text": "What should you do if blinded by oncoming lights at night?",
         "value": "Slow down and look to the left. Be aware of pedestrians, cyclists and obstructions on the left. If still blinded, continue to slow down and pull in.",
         "possibleValues": [
             { "id": 137, "value": "Speed up to get past the oncoming lights quicker." },
