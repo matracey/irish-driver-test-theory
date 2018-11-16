@@ -10,7 +10,7 @@ import "./App.css";
 
 const App = () => (
     <div className="app">
-        <Header appName="Irish Driving Test - Theory Prep" />
+        <Header appName={process.env.REACT_APP_APP_NAME} />
         <Questions
             signData={signData}
             theoryData={theoryData}
